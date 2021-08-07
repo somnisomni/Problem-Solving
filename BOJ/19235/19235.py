@@ -8,7 +8,7 @@ input = sys.stdin.readline
 # "보드 구분" = 초록색 보드는 0, 파란색 보드는 1 (== BOARD의 인덱스)
 BOARD = [[[-1 for _ in range(4)] for _ in range(6)], [[-1 for _ in range(4)] for _ in range(6)]]
 # BLOCKINFO: 각 보드마다 설치된 블럭의 정보 저장
-# 블럭 정보는 튜플로 구성 = (인덱스, X 위치, Y 위치)
+# 블럭 정보는 튜플로 구성 = 인덱스: (모양, X 위치, Y 위치)
 BLOCKINFO = [{}, {}]
 # SCORE: 행/열이 블럭으로 채워져 지워진 횟수
 SCORE = 0
