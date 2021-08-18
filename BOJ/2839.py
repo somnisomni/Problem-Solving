@@ -7,7 +7,7 @@ def solve():
     # Greedy
     # 참고 : https://reakwon.tistory.com/126
     while N >= 0:
-        # N // 3을 계속 빼주다가 어느 순간 N % 5가 나머지를 가지지 않는 경우 종료
+        # N에 3을 계속 빼주다가 어느 순간 N % 5가 나머지를 가지지 않는 경우 종료
 
         if (N % 5) == 0:
             bags += (N // 5)
