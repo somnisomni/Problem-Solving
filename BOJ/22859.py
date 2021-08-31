@@ -40,6 +40,7 @@ while offset < len(html) - 1:
                 innerHtml += html[offset]
                 offset += 1
 
+            # Remove all of inner tags / strip leftmost & rightmost whitespaces / remove duplicated whitespaces
             print(re.sub(r" +", " ", re.sub(r"<\/?[a-z]+\s?>", "", innerHtml[:-3]).strip()))
         else:
             # Process for other tags
