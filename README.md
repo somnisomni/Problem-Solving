@@ -7,4 +7,5 @@ somni's Programming Problem Solving
 
 주로 [Python](https://python.org)을 사용하여 문제를 풉니다.
 
-- `Baekjoon Online Judge` [홈페이지](https://acmicpc.net) | [PS 코드 디렉터리](/BOJ)
+- `Baekjoon Online Judge` [홈페이지](https://noj.am) | [PS 코드 디렉터리](/BOJ)
+- `Programmers` [홈페이지](https://programmers.co.kr) | [PS 코드 디렉터리](/Programmers)
