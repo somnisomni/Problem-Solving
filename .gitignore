@@ -1,2 +1,8 @@
+# Binary files without extension
+*
+!*.*
+!*/
+
+# OS Metadata
 .DS_Store
 Thumbs.db
