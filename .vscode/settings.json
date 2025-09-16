@@ -1,6 +1,9 @@
 {
   "github.copilot.inlineSuggest.enable": false,
   "github.copilot.editor.enableAutoCompletions": false,
+  "github.copilot.enable": {
+    "*": false
+  },
   "vsintellicode.python.completionsEnabled": false,
   "vsintellicode.modify.editor.suggestSelection": "disabled"
 }
