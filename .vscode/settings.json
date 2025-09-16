@@ -5,5 +5,10 @@
     "*": false
   },
   "vsintellicode.python.completionsEnabled": false,
-  "vsintellicode.modify.editor.suggestSelection": "disabled"
+  "vsintellicode.modify.editor.suggestSelection": "disabled",
+  "files.associations": {
+    "algorithm": "cpp",
+    "iostream": "cpp",
+    "valarray": "cpp"
+  }
 }
