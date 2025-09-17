@@ -11,6 +11,20 @@
     "iostream": "cpp",
     "valarray": "cpp",
     "cmath": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "iosfwd": "cpp",
+    "chrono": "cpp",
+    "span": "cpp",
+    "charconv": "cpp",
+    "optional": "cpp",
+    "format": "cpp",
+    "ranges": "cpp",
+    "ratio": "cpp",
+    "system_error": "cpp",
+    "array": "cpp",
+    "functional": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp"
   }
 }
