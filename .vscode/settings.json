@@ -9,6 +9,8 @@
   "files.associations": {
     "algorithm": "cpp",
     "iostream": "cpp",
-    "valarray": "cpp"
+    "valarray": "cpp",
+    "cmath": "cpp",
+    "ostream": "cpp"
   }
 }
